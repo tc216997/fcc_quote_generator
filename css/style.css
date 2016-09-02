@@ -1,0 +1,47 @@
+#quoteDiv {
+  background-color: white;
+  width: 700px;
+  height: 250px;
+  margin: auto;
+  border-radius: 10px;
+  
+}
+
+#quote {
+  margin: 30px;
+  display: none;
+  font-size: 30px;
+}
+
+
+.btn {
+  border-radius: 20px;
+}
+
+
+.fa {
+  color: black;
+  margin-right: 200px;
+}
+
+.btn {
+  margin-left: 200px;
+  margin-bottom: 12px;
+  border: none;
+}
+
+button:focus{
+  outline: none !important;
+}
+
+#quote{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    
+}
+
+
